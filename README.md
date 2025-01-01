@@ -6,3 +6,5 @@ This project involves developing an AI-powered chatbot capable of understanding 
 - 3rd : Open ai_chatbot folder in vscode 
 - 4th : Change API_URL as in your device
 - 6th : Run index.html
+# Technologies
+HTML CSS JavaScript
